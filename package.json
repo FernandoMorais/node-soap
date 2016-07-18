@@ -7,6 +7,7 @@
   },
   "author": "Vinay Pulim <v@pulim.com>",
   "dependencies": {
+    "debug": "github:fernandomorais/debug#feature/v2.2.0_DomainLogger",
     "lodash": "~2.4.1",
     "request": ">=2.9.0",
     "sax": ">=0.6",
